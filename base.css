@@ -146,10 +146,12 @@ a {
   background-color: transparent;
   text-decoration: none;
 }
+/*
 a[rel="external"]:not(.label):hover,
 a.language:hover span {
   text-decoration: underline;
 }
+*/
 
 /* Prevent `sub` and `sup` elements from affecting the line height in all browsers */
 sub,
@@ -779,7 +781,7 @@ li.bordered > ul > details > div {
 
 /* Tags */
 .tags.small {
-  font-size: 0.88em;
+  font-size: 1em;
 }
 .tags.bulleted .tag:not(:last-child):after {
   content: "●";
