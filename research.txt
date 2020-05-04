@@ -1,0 +1,66 @@
+INTRO
+
+I’ve started programming since 2016 during my architecture career,
+by implementing Building Information Modelling /BIM/ and visual programming language Grasshopper.
+I believe my experience and architectural set of mind will help me to become an excellent developer.
+
+
+CONTACT INFO
+
+tel, telegram — 38 063 149 65 94
+mail — vykaliuk@gmail.com
+LinkedIn — olena-vykaliuk
+location — Kyiv, Ukraine
+
+
+TIMELINE
+
+2020
+Started course 'Python and Django Full Stack Web Developer Bootcamp' at Udemy
+
+2019
+Completed a bunch of courses at Codecademy: Python, HTML, CSS, Javascript,SQL, etc.
+Sterted learning comouter science with the famous CS50 at Harvard (via edX)
+Started working at Maibutni/iWonder as teacher in architecture & urban studies
+Attended 'School for teachers' at Maibutni/iWonder — lifechanging experience :sparkles:
+Left the job at maass stoudio (and for now architecture in general)
+
+2017
+Attended 3-days program 'Project management for creative teams. Agile' at KMBS 
+
+2016
+Studied at in.Lab School — 'Algorithmic architecture and design' course — that is the moment when programing came in
+Started working as an architect at architectural studio maass
+
+2015
+Worked as client service architect at Barcelona housing
+
+2014
+Changed position to project administrator (still at Solid construction company)
+
+2013
+Started working as an architect at Solid construction company
+Got the Master degree in Architecture at KNUCA (Kyiv National University of Construction and Architecture)
+
+2012
+Got the Bachelor degree in Architecture at KNUCA
+
+2006
+Finished school studies at physics and mathematics department of Khmelnytskyi Luceum N17
+
+
+
+
+HARD SKILLS
+Python, Django, Scrapy,  HTML, CSS, Javascript, jQuery, SQL, Git — beginner
+Windows, Mac OS, Ubuntu — confident user
+
+
+SOFT SKILLS
+fast learning, communication, teamwork, creativity, critical thinking
+product design, human-centered design, project management & administration
+
+
+LANGUAGES
+english — upper intermediate
+ukrainian, russian — native speaker
