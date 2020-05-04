@@ -55,7 +55,7 @@ h1 {
 h2 {
   font-weight: 900;
   font-size: 3rem;
-  letter-spacing: 0.25em;
+  /* letter-spacing: 0.25em; */
 }
 h2 + p {
   font-weight: 300;
@@ -507,8 +507,9 @@ article {
   justify-content: center;
 }
 .avatar {
+  padding-top: 1.9rem;
   position: relative;
-  max-width: 15rem;
+  max-width: 12rem;
   display: block;
   flex: 1 0 auto;
 }
