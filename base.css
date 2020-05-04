@@ -55,7 +55,7 @@ h1 {
 h2 {
   font-weight: 900;
   font-size: 3rem;
-  /* letter-spacing: 0.25em; */
+  letter-spacing: 0.1em;
 }
 h2 + p {
   font-weight: 300;
@@ -760,6 +760,9 @@ li.bordered > ul > details > div {
   list-style: none outside none;
   padding: 0;
   margin: 0;
+}
+.year {
+  margin-bottom: 100px;
 }
 .timeline:not(:last-child) {
   margin-bottom: 1em;
