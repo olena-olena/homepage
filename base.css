@@ -55,7 +55,7 @@ h1 {
 h2 {
   font-weight: 900;
   font-size: 3rem;
-  letter-spacing: 0.25em;
+  letter-spacing: 0.1em;
 }
 h2 + p {
   font-weight: 300;
@@ -146,10 +146,12 @@ a {
   background-color: transparent;
   text-decoration: none;
 }
+/*
 a[rel="external"]:not(.label):hover,
 a.language:hover span {
   text-decoration: underline;
 }
+*/
 
 /* Prevent `sub` and `sup` elements from affecting the line height in all browsers */
 sub,
@@ -507,8 +509,9 @@ article {
   justify-content: center;
 }
 .avatar {
+  padding-top: 1.9rem;
   position: relative;
-  max-width: 15rem;
+  max-width: 12rem;
   display: block;
   flex: 1 0 auto;
 }
@@ -760,6 +763,9 @@ li.bordered > ul > details > div {
   padding: 0;
   margin: 0;
 }
+.year {
+  margin-bottom: 100px;
+}
 .timeline:not(:last-child) {
   margin-bottom: 1em;
 }
@@ -775,7 +781,7 @@ li.bordered > ul > details > div {
 
 /* Tags */
 .tags.small {
-  font-size: 0.88em;
+  font-size: 1em;
 }
 .tags.bulleted .tag:not(:last-child):after {
   content: "●";
