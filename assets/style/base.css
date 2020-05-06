@@ -511,6 +511,7 @@ article {
   justify-content: center;
 }
 .avatar {
+  border-radius: 50%;
   padding-top: 1.9rem;
   position: relative;
   max-width: 12rem;
